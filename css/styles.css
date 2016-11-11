@@ -1,0 +1,65 @@
+body {
+
+    font-size: 16px;
+    color: #fff;
+    background-color: #61122f;
+    font-family: 'Oxygen', sans-serif;
+    
+}
+
+
+#header-nav {
+    background-color: #f6b319;
+    border-radius: 0;
+    border: 0;
+}
+
+.navbar-brand h1 { /* Restaurant name */
+  color: #557c3e;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+li {
+    border-bottom: 2px solid white;
+    padding: 1px 1px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
+.navbar-nav {
+  margin: 0px -15px;
+}
+
+.container .jumbotron {
+  padding-top: 6px;
+  box-shadow: 0 0 50px #3F0C1F;
+  border: 2px solid #3F0C1F;
+  text-align: center;
+}
+
+.itm {
+    color: #61122f;
+    font-weight: bold;
+}
+
+h1 {
+ color: #557c3e;
+}
+
+.jumbotron h3{
+    color: #61122f;
+}
+
+.jumbotron p{
+    color: black;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
